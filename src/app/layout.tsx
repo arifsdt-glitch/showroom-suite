@@ -18,8 +18,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "GadgetZone - Premium Mobile Showroom",
-  description: "Your trusted destination for smartphones, accessories, and expert repairs. Official warranty, trade-in, and EMI options available.",
+  title: "Showroom Suite — Premium Website Demos",
+  description: "A curated collection of premium website demos for phones, clinics, bikes, cars, and hotels. Built with Next.js, Tailwind CSS, and Framer Motion.",
 };
 
 export default function RootLayout({
