@@ -236,7 +236,7 @@ export default function Home() {
         </div>
 
         <p className="text-center text-zinc-700 text-xs mt-16">
-          Built with Next.js + Tailwind CSS + Framer Motion
+          &copy; 2026 All rights reserved.
         </p>
       </div>
     </main>
