@@ -19,7 +19,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Showroom Suite — Premium Website Demos",
-  description: "A curated collection of premium website demos for phones, clinics, bikes, cars, and hotels. Built with Next.js, Tailwind CSS, and Framer Motion.",
+  description: "A curated collection of premium website demos for phones, clinics, bikes, cars, and hotels.",
 };
 
 export default function RootLayout({
