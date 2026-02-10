@@ -71,11 +71,11 @@ export default function Home() {
                 </div>
 
                 <p className="text-zinc-400 text-sm leading-relaxed mb-8">
-                  Minimalist, monochrome, and sophisticated. Fashion-editorial layouts, parallax hero, tall product cards, AI concierge, cart &amp; trade-in flow. For premium clients.
+                  Minimalist, monochrome, and sophisticated. Fashion-editorial layouts, cinematic hero, tall product cards, AI concierge, cart &amp; trade-in flow. For premium clients.
                 </p>
 
                 <div className="flex flex-wrap gap-2 mb-8">
-                  {["Parallax Hero", "Editorial Layout", "Product Pages", "Cart & Trade-In", "AI Concierge"].map((tag) => (
+                  {["Cinematic Hero", "Editorial Layout", "Product Pages", "Cart & Trade-In", "AI Concierge"].map((tag) => (
                     <span key={tag} className="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border border-white/10 text-zinc-400">
                       {tag}
                     </span>
@@ -143,11 +143,11 @@ export default function Home() {
                 </div>
 
                 <p className="text-zinc-400 text-sm leading-relaxed mb-8">
-                  Dark luxury automotive. Parallax hero, bike configurator, EMI calculator, product detail pages, framer-motion animations. For dealerships.
+                  Dark luxury automotive. Cinematic hero, bike configurator, EMI calculator, product detail pages, smooth animations. For dealerships.
                 </p>
 
                 <div className="flex flex-wrap gap-2 mb-8">
-                  {["Parallax Hero", "Configurator", "EMI Calculator", "Detail Pages", "Test Ride Booking"].map((tag) => (
+                  {["Cinematic Hero", "Configurator", "EMI Calculator", "Detail Pages", "Test Ride Booking"].map((tag) => (
                     <span key={tag} className="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider border border-orange-500/20 text-orange-400/70">
                       {tag}
                     </span>
@@ -219,7 +219,7 @@ export default function Home() {
                 </p>
 
                 <div className="flex flex-wrap gap-2 mb-8">
-                  {["Parallax Hero", "Room Details", "Booking Wizard", "AI Concierge", "Dining"].map((tag) => (
+                  {["Cinematic Hero", "Room Details", "Booking Wizard", "AI Concierge", "Dining"].map((tag) => (
                     <span key={tag} className="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider" style={{ border: "1px solid rgba(194,123,58,0.3)", color: "rgba(194,123,58,0.8)" }}>
                       {tag}
                     </span>
